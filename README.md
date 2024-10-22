@@ -1,7 +1,7 @@
 ## Olá! Sou o Yuri Pierre 👋
 
 
-- 🔭 Eu estou buscando recolocação no mercado de trabalho atualemnte.
+- 🔭 Eu estou buscando recolocação no mercado de trabalho atualmente.
 -->
 
 </div>
