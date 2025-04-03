@@ -26,8 +26,7 @@
   <img align="center" alt="Yuripierre-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
   <img align="center" alt="Yuripierre-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Yuripierre-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-    <img align="center" alt="Yuripierre-sql" height="30" width="40" 
-src="https://devicon-website.vercel.app/api/docker/original-wordmark.svg"></img>
+  <img align="center" alt="Yuripierre-sql" height="30" width="40" src="https://devicon-website.vercel.app/api/docker/original-wordmark.svg"></img>
   
   ##  
 
