@@ -1,7 +1,29 @@
 ## Olá! Sou o Yuri Pierre 👋
 
 
-- 🔭 Eu estou buscando recolocação no mercado de trabalho atualmente.
+- 🔭 🚀 DevOps Engineer | QA Analyst | Software Engineer
+
+💡 Apaixonado por tecnologia, automação e otimização de processos, atuo como Engenheiro DevOps e Analista de QA, com foco em CI/CD, testes automatizados e infraestrutura em nuvem.
+
+📌 Experiência em ambientes ágeis, implementando pipelines de automação, monitoramento de sistemas e segurança DevSecOps.
+
+🎯 Principais habilidades:
+✅ Testes de Software: Selenium, Cypress, Postman, JUnit, TestNG
+✅ DevOps & Infra: Docker, Kubernetes, Terraform, Ansible, AWS, Azure
+✅ Programação: Python, Java, JavaScript, C#, SQL
+✅ Monitoramento: Zabbix, Prometheus, Grafana
+✅ Metodologias: Scrum, Kanban
+
+📜 Certificações:
+✔ CTFL - Certified Tester Foundation Level
+✔ Scrum Foundation Professional Certificate
+✔ ITIL v3 Foundation
+✔ DevOps Essentials Professional Certificate
+✔ AWS DevOps Engineer - Professional
+✔ Microsoft DevOps Engineer Expert
+
+📫 Vamos conectar?
+
 -->
 
 </div>
