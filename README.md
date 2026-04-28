@@ -1,7 +1,7 @@
 ## Olá! Sou o Yuri Pierre 👋
 
 
-- 🔭 🚀 DevOps Engineer | QA Analyst | Software Engineer
+- 🔭 🚀 DevOps Engineer | Software Engineer
 
 💡 Apaixonado por tecnologia, automação e otimização de processos, atuo como Engenheiro DevOps e Analista de QA, com foco em CI/CD, testes automatizados e infraestrutura em nuvem.
 
