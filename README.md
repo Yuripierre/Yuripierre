@@ -3,7 +3,7 @@
 
 - 🔭 🚀 DevOps Engineer | Software Engineer
 
-💡 Apaixonado por tecnologia, automação e otimização de processos, atuo como Engenheiro DevOps e Analista de QA, com foco em CI/CD, testes automatizados e infraestrutura em nuvem.
+💡 Apaixonado por tecnologia, automação e otimização de processos, atuo como Engenheiro DevOps  com foco em CI/CD e infraestrutura em nuvem.
 
 📌 Experiência em ambientes ágeis, implementando pipelines de automação, monitoramento de sistemas e segurança DevSecOps.
 
